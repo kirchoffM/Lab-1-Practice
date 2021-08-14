@@ -1,5 +1,6 @@
 // Exercising the Screen class
 // Exercise 4.1
+// Exercise 4.2
 #include "screen.h"
 #include <iostream>
 
